@@ -17,23 +17,23 @@ Dengan hadirnya Resep Mama, diharapkan semua orang dapat merasakan keseruan mema
 
 ## Fitur yang di hadirkan
 1. Halaman Splash Screen (Opsional)
-  •	Tampilan awal yang muncul selama beberapa detik saat aplikasi dibuka.
-  •	Konten: Logo aplikasi dan nama ("Resep Mama").
+  -	Tampilan awal yang muncul selama beberapa detik saat aplikasi dibuka.
+  -	Konten: Logo aplikasi dan nama ("Resep Mama").
 2. Halaman Utama (Home)
-  •	Konten: Daftar resep makanan.
-  •	Elemen:
-    o	Judul aplikasi di bagian atas.
-    o	Search bar untuk mencari resep.
-    o	Daftar resep dalam bentuk card atau img.
-  •	Navigasi: Jika pengguna klik resep tertentu, mereka akan diarahkan ke halaman detail resep.
+  -	Konten: Daftar resep makanan.
+  -	Elemen:
+    -	Judul aplikasi di bagian atas.
+    -	Search bar untuk mencari resep.
+    -	Daftar resep dalam bentuk card atau img.
+  -	Navigasi: Jika pengguna klik resep tertentu, mereka akan diarahkan ke halaman detail resep.
 3. Halaman Detail Resep
-  •	Konten: Informasi lengkap tentang satu resep.
-  • Elemen:
-    o	Gambar makanan.
-    o	Nama resep.
-    o	Daftar bahan.
-    o	Langkah-langkah cara memasak.
-  •	Navigasi: Tombol "Kembali" untuk kembali ke halaman utama.
+  -	Konten: Informasi lengkap tentang satu resep.
+  - Elemen:
+    -	Gambar makanan.
+    -	Nama resep.
+    -	Daftar bahan.
+    -	Langkah-langkah cara memasak.
+  -	Navigasi: Tombol "Kembali" untuk kembali ke halaman utama.
 
 # Story Board 
 ![image](https://github.com/user-attachments/assets/41d05b38-f0c5-438b-b51e-a691d285f1ac)
