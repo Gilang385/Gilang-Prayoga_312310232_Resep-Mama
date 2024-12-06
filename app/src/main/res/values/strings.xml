@@ -1,0 +1,143 @@
+<resources>
+    <string name="app_name">Resep Mama</string>
+    <string name="search_icon">Search icon</string>
+
+    <!-- Detail resep Ayam Bakar -->
+    <string name="recipe_ayam_bakar">
+        Ayam Bakar\n
+        <b>Bahan-bahan:</b>\n
+        1 ekor ayam kampung\n
+        1 ruas jahe, geprek\n
+        <b>Bumbu ungkep :</b>\n
+        4 siung bawang merah\n
+        2 siung bawang putih\n
+        2 buah kemiri\n
+        1 sdt ketumbar\n
+        1/2 sdt merica\n
+        1 ruas jahe\n
+        1 ruas kunyit\n
+        3 sdm gula merah sisir\n
+        7 sdm kecap manis\n
+        2 daun salam\n
+        secukupnya Garam dan kaldu bubuk\n\n
+        <b>Cara membuat:</b>\n
+        1. Cuci bersih ayam. Kemudian rebus sebentar pake jahe geprek.\n
+        2. Haluskan semua bumbu ungkep kecuali gula, garam, kecap, dan daun salam. Tumis dengan sedikit minyak sampai harum. Masukkan gula garam dan daun salam. Beri air sedikit agar gula cepat larut.\n
+        3. Masukkan ayam, aduk rata dan masak sebentar sampai bumbu meresap. Beri air kira-kira 2 gelas dan kecap, aduk rata.\n
+        4. Biarkan hingga air menyusut sambil sesekali diaduk. Angkat.\n
+        5. Panaskan teflon, bakar ayam di api kecil sampai permukaan ayam mengkaramel dan kecoklatan. Angkat.\n
+        6. Ayam bakar siap disajikan bersama sambel goreng dan lalapan.\n
+        <i>Selamat menikmati!</i>
+    </string>
+
+    <!-- Detail resep Rendang -->
+    <string name="recipe_rendang">
+        Rendang\n
+        <b>Bahan-bahan:</b>\n
+        1 kg daging sapi\n
+        2 ruas jahe, geprek\n
+        1 batang serai, geprek\n
+        3 lembar daun salam\n
+        5 lembar daun jeruk purut\n
+        1 sdt ketumbar\n
+        2 sdt garam\n
+        1 sdm gula merah\n
+        2 sdm kecap manis\n
+        1 liter santan kelapa\n
+        5 siung bawang merah\n
+        3 siung bawang putih\n
+        3 buah cabai merah\n\n
+        <b>Cara membuat:</b>\n
+        1. Haluskan bawang merah, bawang putih, cabai merah, jahe, dan ketumbar.\n
+        2. Tumis bumbu halus dengan sedikit minyak hingga harum.\n
+        3. Tambahkan daging sapi dan aduk hingga berubah warna.\n
+        4. Tambahkan santan, daun salam, daun jeruk, dan serai. Masak dengan api kecil hingga santan mengental dan daging empuk.\n
+        5. Koreksi rasa dengan menambahkan gula merah dan garam.\n
+        6. Masak hingga rendang menjadi kental dan daging benar-benar empuk. Sajikan panas.\n
+    </string>
+
+    <!-- Detail resep Seblak -->
+    <string name="recipe_seblak">
+        Seblak\n
+        <b>Bahan-bahan:</b>\n
+        200 gr kerupuk aci\n
+        2 butir telur\n
+        2 siung bawang putih\n
+        3 siung bawang merah\n
+        3 buah cabai merah\n
+        1 sdt garam\n
+        1 sdt gula\n
+        1 sdm saus sambal\n
+        1 sdm kecap manis\n
+        Secukupnya air dan minyak untuk menumis\n\n
+        <b>Cara membuat:</b>\n
+        1. Goreng kerupuk aci hingga mengembang.\n
+        2. Tumis bawang putih, bawang merah, dan cabai yang sudah dihaluskan hingga harum.\n
+        3. Masukkan kerupuk yang sudah digoreng, tambahkan air secukupnya.\n
+        4. Masukkan telur dan orak-arik hingga matang.\n
+        5. Tambahkan saus sambal, kecap manis, gula, dan garam. Aduk rata dan masak hingga bumbu meresap.\n
+        6. Sajikan panas dengan pelengkap seperti bakso atau sosis.\n
+    </string>
+
+    <!-- Detail resep Sop Iga -->
+    <string name="recipe_sop_iga">
+        Sop Iga\n
+        <b>Bahan-bahan:</b>\n
+        500 gr iga sapi\n
+        2 batang daun bawang\n
+        2 buah wortel\n
+        1 batang seledri\n
+        2 siung bawang putih\n
+        2 siung bawang merah\n
+        1 ruas jahe\n
+        1 sdm garam\n
+        1 sdt merica\n
+        1 sdm kaldu bubuk\n
+        Secukupnya air dan minyak untuk menumis\n\n
+        <b>Cara membuat:</b>\n
+        1. Rebus iga sapi hingga empuk dengan daun bawang, wortel, dan seledri.\n
+        2. Tumis bawang putih, bawang merah, dan jahe hingga harum.\n
+        3. Masukkan bumbu tumis ke dalam rebusan iga dan tambahkan garam, merica, dan kaldu bubuk.\n
+        4. Biarkan sop mendidih dan rasakan kaldu nya.\n
+        5. Sajikan sop iga dengan taburan daun bawang dan seledri.\n
+    </string>
+
+    <!-- Detail resep Candil Ketan -->
+    <string name="recipe_candil_ketan">
+        Candil Ketan\n
+        <b>Bahan-bahan:</b>\n
+        300 gr ketan hitam\n
+        200 gr kelapa parut kasar\n
+        100 gr gula merah serut\n
+        1 sdm daun pandan\n\n
+        <b>Cara membuat:</b>\n
+        1. Cuci bersih ketan hitam, kemudian kukus selama 30 menit.\n
+        2. Larutkan gula merah dengan sedikit air dan tambahkan daun pandan untuk aroma wangi.\n
+        3. Setelah ketan matang, campur dengan kelapa parut kasar dan gula merah larut.\n
+        4. Sajikan candil ketan dalam keadaan hangat.\n
+    </string>
+
+    <!-- Detail resep Rawon -->
+    <string name="recipe_rawon">
+        Rawon\n
+        <b>Bahan-bahan:</b>\n
+        500 gr daging sapi sengkel\n
+        2 batang serai\n
+        3 lembar daun jeruk\n
+        1 ruas kunyit\n
+        2 siung bawang putih\n
+        5 siung bawang merah\n
+        3 buah cabai merah\n
+        1 sdt ketumbar\n
+        1 sdm kaldu bubuk\n
+        1 liter air\n
+        Secukupnya garam dan minyak untuk menumis\n\n
+        <b>Cara membuat:</b>\n
+        1. Tumis bawang merah, bawang putih, cabai merah, dan kunyit hingga harum.\n
+        2. Masukkan daging sengkel dan masak hingga berubah warna.\n
+        3. Tambahkan air, daun jeruk, dan serai. Masak hingga daging empuk.\n
+        4. Masukkan kaldu bubuk, garam, dan ketumbar. Aduk rata dan biarkan mendidih.\n
+        5. Sajikan dengan nasi panas.\n
+    </string>
+
+</resources>
