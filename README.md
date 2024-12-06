@@ -35,6 +35,8 @@ Dengan hadirnya Resep Mama, diharapkan semua orang dapat merasakan keseruan mema
     -	Langkah-langkah cara memasak.
   -	Navigasi: Tombol "Kembali" untuk kembali ke halaman utama.
 
+https://github.com/user-attachments/assets/7c67acf6-f2a2-4e58-ab0f-c3855332462c
+
 # Story Board 
 ![image](https://github.com/user-attachments/assets/41d05b38-f0c5-438b-b51e-a691d285f1ac)
 
