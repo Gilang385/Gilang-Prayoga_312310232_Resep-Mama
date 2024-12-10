@@ -47,15 +47,19 @@ https://github.com/user-attachments/assets/7c67acf6-f2a2-4e58-ab0f-c3855332462c
 Mengggunakan font : Inknut Antiqua
 
 Warna :
+
 ![image](https://github.com/user-attachments/assets/c32f7f7a-d7ae-4b07-a7ca-e2c03bb769c4)
 
 Loading APP:
+
 ![image](https://github.com/user-attachments/assets/862bbc26-444e-4089-b2f2-34f874f76d73)
 
 Home Page:
+
 ![image](https://github.com/user-attachments/assets/183ef6cd-7412-4ef9-ae62-a4d803ff1e67)
 
 Menu Detail:
+
 ![image](https://github.com/user-attachments/assets/75ffc469-7f3b-4563-b04d-ab60a244268c)
 
 
