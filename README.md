@@ -53,9 +53,9 @@ Loading APP:
 ![image](https://github.com/user-attachments/assets/862bbc26-444e-4089-b2f2-34f874f76d73)
 
 Home Page:
-![image](https://github.com/user-attachments/assets/d6c116d2-8d05-4603-b5e5-7a47b5452244)
+![image](https://github.com/user-attachments/assets/183ef6cd-7412-4ef9-ae62-a4d803ff1e67)
 
 Menu Detail:
-![image](https://github.com/user-attachments/assets/8a58c123-4aa9-4042-967a-8c6faa416465)
+![image](https://github.com/user-attachments/assets/75ffc469-7f3b-4563-b04d-ab60a244268c)
 
 
