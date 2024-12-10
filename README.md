@@ -41,17 +41,21 @@ https://github.com/user-attachments/assets/7c67acf6-f2a2-4e58-ab0f-c3855332462c
 ![image](https://github.com/user-attachments/assets/bd632209-a1b9-4ad3-bca2-9bd77be5d602)
 
 # Moc Up
-![image](https://github.com/user-attachments/assets/005d74f3-8408-45b8-b7c3-a55196528e7a)
+![image](https://github.com/user-attachments/assets/c238c03d-0659-476c-955b-1d7cad17afd9)
 
 # UI/UX
-![image](https://github.com/user-attachments/assets/a758335d-5a55-42f2-939d-e9e49887118d)
+Mengggunakan font : Inknut Antiqua
 
-![image](https://github.com/user-attachments/assets/3b2f227d-cb06-44fa-b6f1-7b0d9bb62a70)
+Warna :
+![image](https://github.com/user-attachments/assets/c32f7f7a-d7ae-4b07-a7ca-e2c03bb769c4)
 
-![image](https://github.com/user-attachments/assets/ff7cc0b5-03ab-4a68-bbd2-9daff33b3508)
+Loading APP:
+![image](https://github.com/user-attachments/assets/862bbc26-444e-4089-b2f2-34f874f76d73)
 
-![image](https://github.com/user-attachments/assets/245ee4e8-3fbf-453b-90ae-29397bb60509)
+Home Page:
+![image](https://github.com/user-attachments/assets/d6c116d2-8d05-4603-b5e5-7a47b5452244)
 
-
+Menu Detail:
+![image](https://github.com/user-attachments/assets/8a58c123-4aa9-4042-967a-8c6faa416465)
 
 
