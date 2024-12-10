@@ -38,7 +38,7 @@ Dengan hadirnya Resep Mama, diharapkan semua orang dapat merasakan keseruan mema
 https://github.com/user-attachments/assets/7c67acf6-f2a2-4e58-ab0f-c3855332462c
 
 # Story Board 
-![image](https://github.com/user-attachments/assets/41d05b38-f0c5-438b-b51e-a691d285f1ac)
+![image](https://github.com/user-attachments/assets/bd632209-a1b9-4ad3-bca2-9bd77be5d602)
 
 # Moc Up
 ![image](https://github.com/user-attachments/assets/005d74f3-8408-45b8-b7c3-a55196528e7a)
