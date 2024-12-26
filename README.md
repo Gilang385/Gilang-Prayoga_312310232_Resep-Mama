@@ -10,9 +10,13 @@ Aplikasi ini dirancang agar pengguna dapat menjelajahi berbagai macam resep dari
 Tujuan utama dari aplikasi ini adalah:
 
 Mempermudah akses ke resep masakan: Pengguna dapat menemukan berbagai resep tanpa perlu membeli buku resep atau mencari di internet secara manual.
+
 Mendukung gaya hidup praktis: Dengan langkah-langkah yang mudah diikuti, aplikasi ini cocok untuk semua kalangan, termasuk pemula dalam memasak.
+
 Menginspirasi kreativitas memasak: Aplikasi ini menghadirkan berbagai variasi menu, mulai dari masakan tradisional hingga internasional.
+
 Menghemat waktu: Pengguna tidak perlu lagi bingung memilih menu, karena aplikasi ini memberikan rekomendasi resep berdasarkan kategori seperti sarapan, makan siang, atau makan malam.
+
 Dengan hadirnya Resep Mama, diharapkan semua orang dapat merasakan keseruan memasak di dapur dan menghadirkan hidangan istimewa bagi orang-orang tercinta. Aplikasi ini juga berupaya menjadi solusi praktis dalam menjawab kebutuhan sehari-hari, membuat momen memasak menjadi lebih menyenangkan dan efisien.
 
 ## Fitur yang di hadirkan
