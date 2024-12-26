@@ -7,15 +7,19 @@ Dalam era digital yang serba cepat ini, kebutuhan untuk mengakses informasi seca
 
 Aplikasi ini dirancang agar pengguna dapat menjelajahi berbagai macam resep dari hidangan sederhana hingga spesial, lengkap dengan bahan-bahan dan langkah-langkah yang jelas. Selain itu, fitur pencarian yang interaktif mempermudah pengguna menemukan resep berdasarkan bahan yang tersedia di rumah.
 
-Tujuan utama dari aplikasi ini adalah:
+### Tujuan utama dari aplikasi ini adalah:
 
-Mempermudah akses ke resep masakan: Pengguna dapat menemukan berbagai resep tanpa perlu membeli buku resep atau mencari di internet secara manual.
+- Mempermudah akses ke resep masakan:
+  Pengguna dapat menemukan berbagai resep tanpa perlu membeli buku resep atau mencari di internet secara manual.
 
-Mendukung gaya hidup praktis: Dengan langkah-langkah yang mudah diikuti, aplikasi ini cocok untuk semua kalangan, termasuk pemula dalam memasak.
+- Mendukung gaya hidup praktis:
+  Dengan langkah-langkah yang mudah diikuti, aplikasi ini cocok untuk semua kalangan, termasuk pemula dalam memasak.
 
-Menginspirasi kreativitas memasak: Aplikasi ini menghadirkan berbagai variasi menu, mulai dari masakan tradisional hingga internasional.
+- Menginspirasi kreativitas memasak:
+  Aplikasi ini menghadirkan berbagai variasi menu, mulai dari masakan tradisional hingga internasional.
 
-Menghemat waktu: Pengguna tidak perlu lagi bingung memilih menu, karena aplikasi ini memberikan rekomendasi resep berdasarkan kategori seperti sarapan, makan siang, atau makan malam.
+- Menghemat waktu:
+  Pengguna tidak perlu lagi bingung memilih menu, karena aplikasi ini memberikan rekomendasi resep berdasarkan kategori seperti sarapan, makan siang, atau makan malam.
 
 Dengan hadirnya Resep Mama, diharapkan semua orang dapat merasakan keseruan memasak di dapur dan menghadirkan hidangan istimewa bagi orang-orang tercinta. Aplikasi ini juga berupaya menjadi solusi praktis dalam menjawab kebutuhan sehari-hari, membuat momen memasak menjadi lebih menyenangkan dan efisien.
 
